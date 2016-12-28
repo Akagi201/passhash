@@ -9,5 +9,5 @@ Password hashing and verification
 
 ## Install
 
-* For cli usage: `go get "github.com/Akagi201/passhash/cmd"`
+* For cli usage: `go get "github.com/Akagi201/passhash/cmd/passhash"`
 * For package usage: `go get "github.com/Akagi201/passhash/passhash"`
